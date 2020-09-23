@@ -1,0 +1,24 @@
+.footer-main {
+    background-color: orange;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    height: 100px;
+    width: 100%;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.footer-main p {
+    padding: 1em;
+}
+
+.footer-main .footer-links {
+    padding: 1em;
+}
+
+.footer-main .footer-links a {
+    padding: 1em;
+}

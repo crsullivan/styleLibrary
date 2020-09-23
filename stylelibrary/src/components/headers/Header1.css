@@ -1,0 +1,27 @@
+.header1-main {
+    background-color: rgba(0, 0, 0, .6);
+    background-image: url("../../images/univ.jpg");
+    background-blend-mode: multiply;
+    background-size: cover;
+    height: 100px;
+    width: 100%;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: white;
+}
+
+.header1-main h1 {
+    padding: 1em;
+    margin-right: 5em;
+}
+
+.header1-main nav {
+    padding: 1em;
+    margin-right: 5em;
+    float: right;
+    display: flex;
+    justify-content: space-evenly;
+    width: 20em;
+}
